@@ -1,0 +1,96 @@
+[
+  {
+    "univId": "uni-1",
+    "univName": "Greenwood College of Business & Technology",
+    "courses": [
+      {
+        "name": "BBA (Human Resource & Marketing)",
+        "duration": "3 Years",
+        "feeMin": 60000,
+        "feeMax": 90000,
+        "feeType": "per year"
+      },
+      {
+        "name": "B.Sc (Information Technology & Data Science)",
+        "duration": "3 Years",
+        "feeMin": 70000,
+        "feeMax": 105000,
+        "feeType": "per year"
+      },
+      {
+        "name": "BA (Media & Communication Studies)",
+        "duration": "3 Years",
+        "feeMin": 55000,
+        "feeMax": 85000,
+        "feeType": "per year"
+      },
+      {
+        "name": "BCA (Bachelor of Computer Applications)",
+        "duration": "3 Years",
+        "feeMin": 65000,
+        "feeMax": 90000,
+        "feeType": "per year"
+      },
+      {
+        "name": "MBA (Marketing & Digital Strategy)",
+        "duration": "2 Years",
+        "feeMin": 120000,
+        "feeMax": 165000,
+        "feeType": "per year"
+      }
+    ]
+  },
+
+  {
+    "univId": "uni-2",
+    "univName": "Northbridge Institute of Management & Technology",
+    "courses": [
+      {
+        "name": "BBA (Marketing & Finance)",
+        "duration": "3 Years",
+        "feeMin": 65000,
+        "feeMax": 90000,
+        "feeType": "per year"
+      },
+      {
+        "name": "B.Sc (Computer Science & Programming)",
+        "duration": "3 Years",
+        "feeMin": 70000,
+        "feeMax": 95000,
+        "feeType": "per year"
+      },
+      {
+        "name": "PGDM (Business Analytics)",
+        "duration": "2 Years",
+        "feeMin": 110000,
+        "feeMax": 145000,
+        "feeType": "per year"
+      },
+
+    
+
+      {
+        "name": "BCA (Bachelor of Computer Applications)",
+        "duration": "3 Years",
+        "feeMin": 60000,
+        "feeMax": 85000,
+        "feeType": "per year"
+      },
+      {
+        "name": "MBA (Master of Business Administration – HR)",
+        "duration": "2 Years",
+        "feeMin": 120000,
+        "feeMax": 160000,
+        "feeType": "per year"
+      },
+      {
+        "name": "MBA (Finance & Investment Banking)",
+        "duration": "2 Years",
+        "feeMin": 135000,
+        "feeMax": 175000,
+        "feeType": "per year"
+      }
+     
+    ]
+  }
+]
