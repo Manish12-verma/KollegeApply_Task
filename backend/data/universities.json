@@ -1,0 +1,82 @@
+{
+  "universities": [
+    {
+      "id": "uni-1",
+      "name": "Galaxy Institute of Technology",
+      "overview": "Galaxy Institute is a private tech-focused university focused on practical and industry-aligned learning.",
+      "courses": [
+        { "code": "CSE-BTECH", "name": "B.Tech Computer Science", "duration": "4 years" },
+        { "code": "MBA-DA", "name": "MBA Data Analytics", "duration": "2 years" },
+        { "code": "BDES", "name": "B.Des Product Design", "duration": "4 years" }
+      ],
+      "placements": {
+        "latestYear": 2024,
+        "placementRate": 78,
+        "topCompanies": ["ABC Technologies", "XYZ Systems", "Acme Corp"]
+      },
+      "facilities": ["Hostel", "Labs", "Library", "Sports Complex", "Gym"]
+    },
+    {
+      "id": "uni-2",
+      "name": "Crestview University",
+      "overview": "Crestview University offers strong programs in business, arts, and computer applications.",
+      "courses": [
+        { "code": "BBA", "name": "BBA", "duration": "3 years" },
+        { "code": "BCA", "name": "BCA", "duration": "3 years" },
+        { "code": "MCOM", "name": "M.Com", "duration": "2 years" }
+      ],
+      "placements": {
+        "latestYear": 2024,
+        "placementRate": 72,
+        "topCompanies": ["LMN Pvt Ltd", "PQR Group", "Delta Solutions"]
+      },
+      "facilities": ["Hostel", "Placement Cell", "Computer Labs", "Cafeteria"]
+    }
+  ],
+  "fees": {
+    "uni-1": {
+      "courses": [
+        {
+          "code": "CSE-BTECH",
+          "name": "B.Tech Computer Science",
+          "duration": "4 years",
+          "fee": { "min": 90000, "max": 220000 }
+        },
+        {
+          "code": "MBA-DA",
+          "name": "MBA Data Analytics",
+          "duration": "2 years",
+          "fee": { "min": 120000, "max": 250000 }
+        },
+        {
+          "code": "BDES",
+          "name": "B.Des Product Design",
+          "duration": "4 years",
+          "fee": { "min": 60000, "max": 150000 }
+        }
+      ]
+    },
+    "uni-2": {
+      "courses": [
+        {
+          "code": "BBA",
+          "name": "BBA",
+          "duration": "3 years",
+          "fee": { "min": 60000, "max": 120000 }
+        },
+        {
+          "code": "BCA",
+          "name": "BCA",
+          "duration": "3 years",
+          "fee": { "min": 50000, "max": 100000 }
+        },
+        {
+          "code": "MCOM",
+          "name": "M.Com",
+          "duration": "2 years",
+          "fee": { "min": 40000, "max": 90000 }
+        }
+      ]
+    }
+  }
+}
